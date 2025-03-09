@@ -10,6 +10,8 @@ const main = async () => {
     "energex-unplanned.geojson",
     "ergon-unplanned.geojson",
     "essential-energy.geojson",
+    "energex-summary.json",
+    "energex-summary-suburbs.json",
   ];
 
   // Fetch all
